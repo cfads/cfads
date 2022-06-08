@@ -8,13 +8,12 @@
 
 ![Cris GitHub stats](https://github-readme-stats.vercel.app/api?username=cfads&show_icons=true&theme=tokyonight)
 
-<br>
 
 ## <span style="color:#bb9af7">SKILLS</span>
 
 <br> 
 
-<div style="">
+<div>
     <div>
         <img alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
         <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
