@@ -1,6 +1,5 @@
 ## Olá! Eu sou o <span style="color:#7aa2f7">Cristian Felipe</span> 👋
 
-[![Portfólio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://cristian-felipe.vercel.app/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian2001)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/crissouza.agra/)
